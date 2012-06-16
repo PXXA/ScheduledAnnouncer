@@ -49,6 +49,6 @@ permissions:
     announcer.moderate:
         description: Allows you to change properties the plugin.
         default: op
-    announce.admin:
+    announce.admin:PXXA
         description: Allows you to load, save and restart the plugin.
         default: op
